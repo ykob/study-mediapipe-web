@@ -22,3 +22,8 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+## references
+
+- [Getting Started / MediaPipe in JavaScript](https://google.github.io/mediapipe/getting_started/javascript.html)
