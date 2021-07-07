@@ -13,9 +13,11 @@ export default defineComponent({
   name: 'App',
   mounted() {
     const video = document.getElementById('input-video')
-    const camera = new Camera(video, null)
+    const camera = new Camera(video, {
+      onFrame: () => {},
+    })
     camera.start()
-    console.log(camera)
+    console.log(Camera, camera)
   },
 })
 </script>
