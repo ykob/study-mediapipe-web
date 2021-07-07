@@ -944,6 +944,16 @@
     cssnano-preset-default "^4.0.0"
     postcss "^7.0.0"
 
+"@mediapipe/camera_utils@^0.3.1620247984":
+  version "0.3.1620247984"
+  resolved "https://registry.yarnpkg.com/@mediapipe/camera_utils/-/camera_utils-0.3.1620247984.tgz#576748af84b3174356acab37671c7ed33d3cb04b"
+  integrity sha512-CQEppbvSfgF5BaiA917+x/xHn8ttietc4+co/7RF98AqgjByGQHKLslog1eE7WekgBXYT/qc4z9F1HrOIfy3yQ==
+
+"@mediapipe/face_mesh@^0.4.1625245753":
+  version "0.4.1625245753"
+  resolved "https://registry.yarnpkg.com/@mediapipe/face_mesh/-/face_mesh-0.4.1625245753.tgz#0b1ef13bb4882f7574e6e2487f86dbe9cac4dae7"
+  integrity sha512-1pot/sRXT7MDOGhzVhGADJ7wlcR9sRK3pdVtUQXXHvLzXkC1Flu4V2L1+PT8fkVN2n7LtlhfvjSnUSaD2jbvpA==
+
 "@mrmlnc/readdir-enhanced@^2.2.1":
   version "2.2.1"
   resolved "https://registry.yarnpkg.com/@mrmlnc/readdir-enhanced/-/readdir-enhanced-2.2.1.tgz#524af240d1a360527b730475ecfa1344aa540dde"
