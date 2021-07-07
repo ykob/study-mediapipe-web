@@ -4,8 +4,9 @@ div
   canvas#output-canvas
 </template>
 
-<script lang="ts">
+<script>
 import { defineComponent } from 'vue'
+import 'normalize.css'
 import { Camera } from '@mediapipe/camera_utils'
 
 export default defineComponent({
