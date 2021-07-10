@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "@mediapipe/camera_utils": "^0.3.1620247984",
+    "@mediapipe/drawing_utils": "^0.3.1620248257",
     "@mediapipe/face_mesh": "^0.4.1625245753",
     "@mediapipe/holistic": "^0.4.1625245411",
     "core-js": "^3.6.5",
