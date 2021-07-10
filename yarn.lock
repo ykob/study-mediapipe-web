@@ -954,6 +954,11 @@
   resolved "https://registry.yarnpkg.com/@mediapipe/face_mesh/-/face_mesh-0.4.1625245753.tgz#0b1ef13bb4882f7574e6e2487f86dbe9cac4dae7"
   integrity sha512-1pot/sRXT7MDOGhzVhGADJ7wlcR9sRK3pdVtUQXXHvLzXkC1Flu4V2L1+PT8fkVN2n7LtlhfvjSnUSaD2jbvpA==
 
+"@mediapipe/holistic@^0.4.1625245411":
+  version "0.4.1625245411"
+  resolved "https://registry.yarnpkg.com/@mediapipe/holistic/-/holistic-0.4.1625245411.tgz#a6f1a3bab6433a1cc5ebac01b28605a40a222295"
+  integrity sha512-rtUhoxgVYQSsqhXk379mnOVo8Ee4jJoqvWsCxvp48OeOvGQTMI77XYNLLsvQxjeGVkhpH82QQiWedaHG5+GZ7g==
+
 "@mrmlnc/readdir-enhanced@^2.2.1":
   version "2.2.1"
   resolved "https://registry.yarnpkg.com/@mrmlnc/readdir-enhanced/-/readdir-enhanced-2.2.1.tgz#524af240d1a360527b730475ecfa1344aa540dde"
