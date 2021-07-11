@@ -8,6 +8,7 @@ div
 import { defineComponent } from 'vue'
 import 'normalize.css'
 import { Camera } from '@mediapipe/camera_utils'
+import DrawingUtils from '@mediapipe/drawing_utils'
 
 export default defineComponent({
   name: 'App',
@@ -17,7 +18,7 @@ export default defineComponent({
       onFrame: () => {},
     })
     camera.start()
-    console.log(Camera, camera)
+    console.log(DrawingUtils)
   },
 })
 </script>
